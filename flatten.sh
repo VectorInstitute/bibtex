@@ -1,6 +1,6 @@
 #!/bin/bash
 
-bibfiles=`find ./bibtex/ -type f -name "*.bib"`
+bibfiles=`find ./bibtex -type f -name "*.bib"`
 bib2bib \
         -oc /dev/null \
         --remove abstract \
