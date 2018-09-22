@@ -1,8 +1,6 @@
 #!/bin/bash
 
-bibfiles=`find . -type f -name "*.bib"`
-echo "hello" 
-echo $bibfiles
+bibfiles=`find ./bibtex/ -type f -name "*.bib"`
 bib2bib \
         -oc /dev/null \
         --remove abstract \
@@ -18,9 +16,9 @@ bib2bib \
         --expand-xrefs \
         -s '$key' \
         -c 'not ($type = "proceedings")' \
-        $bibfiles |
+        "proceedings.bib" $bibfiles |
     perl -p0 -e '
         s/\s*(\@comment\{\{[^}]*\}\}\s*)+/\n\n/g;
         s/\n  address = \{\},//g;
         s/^\n+//;
-    ' > "all.bib"
+    ' > "temp.all.bib"
