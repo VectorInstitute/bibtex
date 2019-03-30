@@ -30,25 +30,33 @@ Each group should maintain its own .bib file inside the ``bibtex/`` directory. (
 
 Publications should only be entered into one .bib file. Repeated entries, within one file or across multiple .bib files, will end up producing multiple copies of the same publication on the Vector website. We're looking for nice solutions to this, but at the moment, ask that groups that coauthor papers decide on one location for these files. One option is to create a .bib file for these coauthored publications that cross groups. 
 
+### Guidelines on which publications to list
+
+Here are few guidelines on which publications to add:
+
+* Publications should ideally have Vector Institute listed among affiliations.
+* Each bibtex entry should have a URL entry, where visitors can download the paper, potentially, but ideally not, behind a paywall. *Publications should only be added if there is an associated URL.* It is not appropriate to add articles before they are available. Preprints on arXiv intended for publication are fine to add.
+* It is not appropriate to upload extended abstracts for unrefereed conferences.
+
 ## Formatting rules for bibtex
 
-The following guidelines are aimed to improve the quality of the publication page.
+The following guidelines are aimed to improve the quality of the publication page. Users should familiarize themselves with BiBTeX (https://en.wikipedia.org/wiki/BibTeX#Bibliographic_information_file) before attempting to add entries.
 
 ### Choosing *key* values
 
-Every entry is given a key. In order to minimize clashes, please use the following formatting
+Every entry begins with a *key*.  These keys *must* be unique. In order to minimize clashes, please use the following formatting
 
     [author summary][YYYY][acronym of venue][keyword or one-two word summary of title]
 
 The `[author summary]` might be
 
-* `[last name]etal`
+* `[last name of first author in lowercase]etal`
 * `[ListOfLastNamesInCamelCase]`
-* `[INITIALS]`
+* `[INITIALSOFLASTNAMESINORDER]`
 
 ### Cross references for major conferences
 
-We want our bibtex to be clean and consistent. For this reason, we will use cross referencing when making citations to proceedings, such an NIPS, ICML, CVPR, etc. Every major conference has a `@proceedings` entry in *proceedings.bib*. When making an `@inproceedings` entry, simply add, e.g., `crossref={NIPS2018}`, in order to import all the fields relevant to that year's proceedings. In particular, the `@inproceedings` entry should NOT have the year, booktitle, volume, etc. specified. It should specify the pages, title, authors, etc.
+We want our bibtex to be clean and consistent. For this reason, we will use cross referencing when making citations to proceedings, such an NeurIPS, ICML, CVPR, etc. Every major conference has a `@proceedings` entry in *proceedings.bib*. When making an `@inproceedings` entry, simply add, e.g., `crossref={NeurIPS2019}`, in order to import all the fields relevant to that year's proceedings. In particular, the `@inproceedings` entry for individal papers should NOT specify information that is general to the conference/venue: year, booktitle, volume, etc. specified. It should specify the paper specific information: pages, title, authors, etc.
 
 ### Standardized `@strings`
 
