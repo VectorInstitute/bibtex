@@ -16,7 +16,7 @@ bib2bib \
         --expand-xrefs \
         -s '$key' \
         -c 'not ($type = "proceedings")' \
-        "proceedings.bib" $bibfiles |
+        $bibfiles |
     perl -p0 -e '
         s/\s*(\@comment\{\{[^}]*\}\}\s*)+/\n\n/g;
         s/\n  address = \{\},//g;
