@@ -1,12 +1,18 @@
 \documentclass{article}
-\usepackage{natbib}
+\usepackage{url}
+
+\usepackage[%
+    minnames=1,maxnames=99,maxcitenames=3,
+    style=alphabetic, %alphabetic,
+    natbib,backend=bibtex]{biblatex}
+\bibliography{temp.all}
 
 \begin{document}
 
 \nocite{*}
-test
 
-\bibliographystyle{abbrv}
-\bibliography{temp.all}
+Compiling (pdflatex; bibtex; pdflatex; pdflatex) this document produces a bibliography based on the contents of \texttt{temp.all.bib}. If this rendering looks correct, \texttt{cp templ.all.bib all.bib}, commit, and push to update the server.
+
+\printbibliography
 
 \end{document}
