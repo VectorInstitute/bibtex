@@ -1,0 +1,1744 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000) (preloaded format=pdflatex 2019.4.24)  24 APR 2019 11:07
+entering extended mode
+**./view.tex
+(view.tex
+LaTeX2e <2018-12-01>
+
+("/Users/adrian/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bas
+e/article.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+
+("/Users/adrian/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bas
+e/size10.clo"
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("/Users/adrian/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url
+/url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("/Users/adrian/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bib
+latex/biblatex.sty"
+Package: biblatex 2018/11/02 v3.12 programmable bibliographies (PK/MW)
+
+("/Users/adrian/Library/Application Support/MiKTeX/texmfs/install/tex/generic/o
+berdiek/pdftexcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("/Users/adrian/Library/Application Support/MiKTeX/texmfs/install/tex/generic/o
+berdiek/infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("/Users/adrian/Library/Application Support/MiKTeX/texmfs/install/tex/generic/o
+berdiek/ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("/Users/adrian/Library/Application Support/MiKTeX/texmfs/install/tex/generic/o
+berdiek/ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+("/Users/adrian/Library/Application Support/MiKTeX/texmfs/install/tex/generic/o
+berdiek/ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("/Users/adrian/Library/Application Support/MiKTeX/texmfs/install/tex/latex/eto
+olbox/etoolbox.sty"
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count88
+)
+("/Users/adrian/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gra
+phics/keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("/Users/adrian/Library/Application Support/MiKTeX/texmfs/install/tex/latex/obe
+rdiek/kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("/Users/adrian/Library/Application Support/MiKTeX/texmfs/install/tex/generic/o
+berdiek/kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("/Users/adrian/Library/Application Support/MiKTeX/texmfs/install/tex/generic/o
+berdiek/etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+)))
+("/Users/adrian/Library/Application Support/MiKTeX/texmfs/install/tex/latex/log
+req/logreq.sty"
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count89
+
+("/Users/adrian/Library/Application Support/MiKTeX/texmfs/install/tex/latex/log
+req/logreq.def"
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+("/Users/adrian/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bas
+e/ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@tabx@nest=\count90
+\c@listtotal=\count91
+\c@listcount=\count92
+\c@liststart=\count93
+\c@liststop=\count94
+\c@citecount=\count95
+\c@citetotal=\count96
+\c@multicitecount=\count97
+\c@multicitetotal=\count98
+\c@instcount=\count99
+\c@maxnames=\count100
+\c@minnames=\count101
+\c@maxitems=\count102
+\c@minitems=\count103
+\c@citecounter=\count104
+\c@maxcitecounter=\count105
+\c@savedcitecounter=\count106
+\c@uniquelist=\count107
+\c@uniquename=\count108
+\c@refsection=\count109
+\c@refsegment=\count110
+\c@maxextratitle=\count111
+\c@maxextratitleyear=\count112
+\c@maxextraname=\count113
+\c@maxextradate=\count114
+\c@maxextraalpha=\count115
+\c@abbrvpenalty=\count116
+\c@highnamepenalty=\count117
+\c@lownamepenalty=\count118
+\c@maxparens=\count119
+\c@parenlevel=\count120
+\blx@tempcnta=\count121
+\blx@tempcntb=\count122
+\blx@tempcntc=\count123
+\blx@maxsection=\count124
+\blx@maxsegment@0=\count125
+\blx@notetype=\count126
+\blx@parenlevel@text=\count127
+\blx@parenlevel@foot=\count128
+\blx@sectionciteorder@0=\count129
+\blx@entrysetcounter=\count130
+\labelnumberwidth=\skip43
+\labelalphawidth=\skip44
+\biblabelsep=\skip45
+\bibitemsep=\skip46
+\bibnamesep=\skip47
+\bibinitsep=\skip48
+\bibparsep=\skip49
+\bibhang=\skip50
+\blx@bcfin=\read1
+\blx@bcfout=\write3
+\c@mincomprange=\count131
+\c@maxcomprange=\count132
+\c@mincompwidth=\count133
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+("/Users/adrian/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bib
+latex/blx-dm.def"
+File: blx-dm.def 2018/11/02 v3.12 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'alphabetic.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count134
+\c@savedafterword=\count135
+\c@annotator=\count136
+\c@savedannotator=\count137
+\c@author=\count138
+\c@savedauthor=\count139
+\c@bookauthor=\count140
+\c@savedbookauthor=\count141
+\c@commentator=\count142
+\c@savedcommentator=\count143
+\c@editor=\count144
+\c@savededitor=\count145
+\c@editora=\count146
+\c@savededitora=\count147
+\c@editorb=\count148
+\c@savededitorb=\count149
+\c@editorc=\count150
+\c@savededitorc=\count151
+\c@foreword=\count152
+\c@savedforeword=\count153
+\c@holder=\count154
+\c@savedholder=\count155
+\c@introduction=\count156
+\c@savedintroduction=\count157
+\c@namea=\count158
+\c@savednamea=\count159
+\c@nameb=\count160
+\c@savednameb=\count161
+\c@namec=\count162
+\c@savednamec=\count163
+\c@translator=\count164
+\c@savedtranslator=\count165
+\c@shortauthor=\count166
+\c@savedshortauthor=\count167
+\c@shorteditor=\count168
+\c@savedshorteditor=\count169
+\c@labelname=\count170
+\c@savedlabelname=\count171
+\c@institution=\count172
+\c@savedinstitution=\count173
+\c@lista=\count174
+\c@savedlista=\count175
+\c@listb=\count176
+\c@savedlistb=\count177
+\c@listc=\count178
+\c@savedlistc=\count179
+\c@listd=\count180
+\c@savedlistd=\count181
+\c@liste=\count182
+\c@savedliste=\count183
+\c@listf=\count184
+\c@savedlistf=\count185
+\c@location=\count186
+\c@savedlocation=\count187
+\c@organization=\count188
+\c@savedorganization=\count189
+\c@origlocation=\count190
+\c@savedoriglocation=\count191
+\c@origpublisher=\count192
+\c@savedorigpublisher=\count193
+\c@publisher=\count194
+\c@savedpublisher=\count195
+\c@language=\count196
+\c@savedlanguage=\count197
+\c@origlanguage=\count198
+\c@savedoriglanguage=\count199
+\c@pageref=\count266
+\c@savedpageref=\count267
+\shorthandwidth=\skip51
+\shortjournalwidth=\skip52
+\shortserieswidth=\skip53
+\shorttitlewidth=\skip54
+\shortauthorwidth=\skip55
+\shorteditorwidth=\skip56
+\locallabelnumberwidth=\skip57
+\locallabelalphawidth=\skip58
+\localshorthandwidth=\skip59
+\localshortjournalwidth=\skip60
+\localshortserieswidth=\skip61
+\localshorttitlewidth=\skip62
+\localshortauthorwidth=\skip63
+\localshorteditorwidth=\skip64
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+("/Users/adrian/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bib
+latex/blx-compat.def"
+File: blx-compat.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load BibTeX backend compatibility...
+Package biblatex Info: ... file 'blx-bibtex.def' found.
+
+("/Users/adrian/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bib
+latex/blx-bibtex.def"
+File: blx-bibtex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+
+
+Package biblatex Warning: Using fall-back BibTeX(8) backend:
+(biblatex)                functionality may be reduced/unavailable.
+
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+("/Users/adrian/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bib
+latex/biblatex.def"
+File: biblatex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+\c@textcitecount=\count268
+\c@textcitetotal=\count269
+\c@textcitemaxnames=\count270
+\c@biburlnumpenalty=\count271
+\c@biburlucpenalty=\count272
+\c@biburllcpenalty=\count273
+\c@smartand=\count274
+)
+Package biblatex Info: Trying to load natbib compatibility...
+Package biblatex Info: ... file 'blx-natbib.def' found.
+
+("/Users/adrian/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bib
+latex/blx-natbib.def"
+File: blx-natbib.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
+ overwriting.
+)
+Package biblatex Info: Trying to load bibliography style 'alphabetic'...
+Package biblatex Info: ... file 'alphabetic.bbx' found.
+
+("/Users/adrian/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bib
+latex/bbx/alphabetic.bbx"
+File: alphabetic.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+("/Users/adrian/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bib
+latex/bbx/standard.bbx"
+File: standard.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count275
+\c@bbx:relatedtotal=\count276
+))
+Package biblatex Info: Trying to load citation style 'alphabetic'...
+Package biblatex Info: ... file 'alphabetic.cbx' found.
+
+("/Users/adrian/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bib
+latex/cbx/alphabetic.cbx"
+File: alphabetic.cbx 2018/11/02 v3.12 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+("/Users/adrian/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bib
+latex/biblatex.cfg"
+File: biblatex.cfg 
+))
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+("/Users/adrian/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bib
+latex/lbx/english.lbx"
+File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
+)
+\@quotelevel=\count277
+\@quotereset=\count278
+ (view.aux)
+\openout1 = `view.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' specified.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
+\openout3 = `view-blx.bib'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'view.bbl' found.
+ (view.bbl
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with '2019arXiv190402130A':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'pmlr-v80-cremer18a':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'FRJ13':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with '2018arXiv181012361E':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'FRJ23':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'FRJ14':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'FRJ9':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'FRT27':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'pmlr-v80-kipf18a':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'pmlr-v80-liao18c':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'FRC59':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'FRC58':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'pmlr-v80-madras18a':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'FRJ8':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'FRJ21':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'FRC60':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'pmlr-v80-wang18i':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'Zhou_2018_CVPR':
+(biblatex)                - Invalid format of field 'month'.
+
+)
+Package biblatex Info: Reference section=0 on input line 10.
+Package biblatex Info: Reference segment=0 on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 16.
+
+Overfull \hbox (12.55125pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 A. Erdogdu. ``Normal Approximation for Stochastic Gradient Desc
+ent
+ []
+
+! Undefined control sequence.
+<argument> Occam\textquotesingle 
+                                 s razor is insufficient to infer the prefer...
+l.17 
+     
+? 
+
+Overfull \hbox (20.7018pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Stuart Armstrong and Soren Mindermann. ``Occams razor is ins
+ufficient
+ []
+
+
+Overfull \hbox (1.03429pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 to infer the preferences of irrational agents''. In: \OT1/cmr/m
+/it/10 Advances in Neural
+ []
+
+
+Overfull \hbox (5.75752pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Curran Associates, Inc., 2018, pp. 5598{5609. \OT1/cmr/m/sc/10 
+url\OT1/cmr/m/n/10 : $\OT1/cmtt/m/n/10 http : / / papers .
+ []
+
+
+Overfull \hbox (13.39453pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 compression schemes''. In: \OT1/cmr/m/it/10 Advances in Neural 
+Information Processing
+ []
+
+
+Overfull \hbox (13.10306pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/it/10 Systems 31\OT1/cmr/m/n/10 . Ed. by S. Bengio, H. Wallach, H. L
+arochelle, K. Grauman,
+ []
+
+
+Overfull \hbox (3.4939pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/it/10 ACM International Conference on Intelligent User Interfaces\OT
+1/cmr/m/n/10 . 2018.
+ []
+
+
+Overfull \hbox (98.43022pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/sc/10 url\OT1/cmr/m/n/10 : $\OT1/cmtt/m/n/10 http : / / www . cs . t
+oronto . edu / []baxtell / TouchSupportedForcedAlignment2018 .
+ []
+
+[1
+
+{/Users/adrian/Library/Application Support/MiKTeX/texmfs/data/pdftex/config/pdf
+tex.map}]
+Overfull \hbox (31.61015pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Taylor. ``Glimpse Clouds: Human Activity Recognition from Unstr
+uctured
+ []
+
+
+Overfull \hbox (6.469pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Geoffrey E Hinton, and Timothy Lillicrap. ``Assessing the Scala
+bility
+ []
+
+
+Overfull \hbox (25.36188pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 of Biologically-Motivated Deep Learning Algorithms and Architec
+tures''.
+ []
+
+
+Overfull \hbox (11.38646pt too wide) in paragraph at lines 17--17
+\OT1/cmtt/m/n/10 the -[] scalability -[] of -[] biologically -[] motivated -[] 
+deep -[] learning -[]
+ []
+
+
+Overfull \hbox (4.09734pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 B Ben-David, N Multani, V Shakuf, F Rudzicz, and P Van Liesho
+ut.
+ []
+
+
+Overfull \hbox (4.41734pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 intelligent online tool for connecting caregivers to relevant s
+upport''.
+ []
+
+
+Overfull \hbox (3.93376pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 In: \OT1/cmr/m/it/10 RESNA\OT1/cmr/m/n/10 . 2017. \OT1/cmr/m/sc
+/10 url\OT1/cmr/m/n/10 : $\OT1/cmtt/m/n/10 https : / / www . resna . org / site
+s / default /
+ []
+
+
+Overfull \hbox (4.8923pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 A Budhkar, K Vishnubhotla, S Hossain, and F Rudzicz. ``Genera
+tive
+ []
+
+
+Overfull \hbox (12.61183pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Parkinson's disease using differential phonological posterior f
+eatures''.
+ []
+
+
+Overfull \hbox (36.91402pt too wide) in paragraph at lines 17--17
+\OT1/cmtt/m/n/10 / / www . sciencedirect . com / science / article / pii / S088
+5230817300724$\OT1/cmr/m/n/10 . 
+ []
+
+
+Overfull \hbox (7.3472pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 M Cernak, E Noeth, F Rudzicz, H Christensen, JR Orozco-Arroya
+ve,
+ []
+
+[2]
+Overfull \hbox (0.11185pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 ``Developing innovative interdisciplinary technological solutio
+ns for
+ []
+
+
+Overfull \hbox (28.10463pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Duvenaud. ``Explaining Image Classifiers by Counterfactual Gene
+ration''.
+ []
+
+
+Overfull \hbox (5.66336pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Tian Qi Chen, Xuechen Li, Roger B Grosse, and David K Duvenau
+d.
+ []
+
+
+Overfull \hbox (7.66737pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 ``Isolating Sources of Disentanglement in Variational Autoencod
+ers''.
+ []
+
+
+Overfull \hbox (5.1365pt too wide) in paragraph at lines 17--17
+\OT1/cmtt/m/n/10 sources -[] of -[] disentanglement -[] in -[] variational -[] 
+autoencoders .
+ []
+
+
+Overfull \hbox (0.74695pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Duvenaud. ``Neural Ordinary Differential Equations''. In: \OT1/
+cmr/m/it/10 Advances
+ []
+
+
+Overfull \hbox (6.2243pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/it/10 in Neural Information Processing Systems (NeurIPS)\OT1/cmr/m/n
+/10 . Ed. by Hanna
+ []
+
+
+Overfull \hbox (6.59071pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Rudzicz. ``Identifying and avoiding confusion in dialogue with 
+people
+ []
+
+
+Overfull \hbox (3.77715pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 with Alzheimer's disease''. In: \OT1/cmr/m/it/10 Computational 
+Linguistics \OT1/cmr/m/n/10 43(2).377-
+ []
+
+
+Overfull \hbox (2.1774pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Ching-Yao Chuang, Jiaman Li, Antonio Torralba, and Sanja Fidl
+er.
+ []
+
+[3]
+Overfull \hbox (0.43065pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Wang. ``A Textual Analysis of U.S. Corporate Social Responsibil
+ity
+ []
+
+
+Overfull \hbox (34.76402pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Chris Cremer, Xuechen Li, and David Duvenaud. ``Inference Sub
+optimality
+ []
+
+
+Overfull \hbox (16.08372pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 in Variational Autoencoders''. In: \OT1/cmr/m/it/10 Proceedings
+ of the 35th International
+ []
+
+
+Overfull \hbox (34.76402pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Chris Cremer, Xuechen Li, and David Duvenaud. ``Inference Sub
+optimality
+ []
+
+
+Overfull \hbox (16.08372pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 in Variational Autoencoders''. In: \OT1/cmr/m/it/10 Proceedings
+ of the 35th International
+ []
+
+
+Overfull \hbox (56.43732pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Krause. Vol. 80. Proceedings of Machine Learning Research. Stoc
+kholmsmassan,
+ []
+
+
+Overfull \hbox (7.60576pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Conversation Model''. In: \OT1/cmr/m/it/10 2018 IEEE/CVF Confer
+ence on Computer
+ []
+
+
+Overfull \hbox (3.51395pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Chris Cremer, Quaid Morris, and David Duvenaud. ``Reinterpret
+ing
+ []
+
+
+Overfull \hbox (2.15633pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Importance-Weighted Autoencoders''. In: \OT1/cmr/m/it/10 Intern
+ational Conference
+ []
+
+
+Overfull \hbox (2.0064pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/it/10 on Learning Representations (ICLR) Workshop Track\OT1/cmr/m/n/
+10 . 2017. arXiv:
+ []
+
+
+Overfull \hbox (28.9373pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 P Dai, F Rudzicz, YI Soon, A Mihailidis, and H Ding. ``2D Psy
+choacoustic
+ []
+
+
+Overfull \hbox (5.41429pt too wide) in paragraph at lines 17--17
+\OT1/cmtt/m/n/10 sciencedirect . com / science / article / pii / S0165168415001
+115$\OT1/cmr/m/n/10 . 
+ []
+
+
+Overfull \hbox (11.0951pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Paradigm for Image Captioning''. In: \OT1/cmr/m/it/10 Advances 
+in Neural Information
+ []
+
+
+Overfull \hbox (1.9109pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/it/10 Processing Systems 31\OT1/cmr/m/n/10 . Ed. by S. Bengio, H. Wa
+llach, H. Larochelle,
+ []
+
+
+Overfull \hbox (21.88637pt too wide) in paragraph at lines 17--17
+\OT1/cmtt/m/n/10 7346 -[] a -[] neural -[] compositional -[] paradigm -[] for -
+[] image -[] captioning .
+ []
+
+
+Overfull \hbox (5.41429pt too wide) in paragraph at lines 17--17
+\OT1/cmtt/m/n/10 sciencedirect . com / science / article / pii / S0950705114004
+729$\OT1/cmr/m/n/10 . 
+ []
+
+
+Overfull \hbox (0.25092pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Richard Zemel David Madras Toniann Pitassi. \OT1/cmr/m/it/10 
+Predict Responsibly:
+ []
+
+[4]
+Overfull \hbox (5.75752pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Curran Associates, Inc., 2018, pp. 8430{8441. \OT1/cmr/m/sc/10 
+url\OT1/cmr/m/n/10 : $\OT1/cmtt/m/n/10 http : / / papers .
+ []
+
+
+Overfull \hbox (3.37465pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/it/10 Information Processing Systems (NeurIPS)\OT1/cmr/m/n/10 . Ed. 
+by Hanna Wallach,
+ []
+
+
+Overfull \hbox (11.66675pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Hugo Larochelle, Kristen Grauman, and Nicolo Cesa-Bianchi. Vol
+. 32.
+ []
+
+
+Overfull \hbox (7.32562pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 optimizes the prior of a PAC-Bayes bound: Generalization proper
+ties
+ []
+
+
+Overfull \hbox (10.01398pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Machine Learning Research. Stockholmsmassan, Stockholm, Sweden
+:
+ []
+
+
+Overfull \hbox (6.46248pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Non-convex Optimization with Discretized Diffusions''. In: \OT1
+/cmr/m/it/10 Advances
+ []
+
+
+Overfull \hbox (9.91351pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Shadrielle Melijah G Espiritu, Lydia Y Liu, Yulia Rubanova, V
+inayak
+ []
+
+
+Overfull \hbox (11.64624pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Amir-massoud Farahmand. ``Iterative Value-Aware Model Learnin
+g''.
+ []
+
+[5]
+Overfull \hbox (14.34723pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 K Fraser, JA Meltzer, and F Rudzicz. ``Linguistic features di
+fferentiate
+ []
+
+
+Overfull \hbox (12.70706pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/it/10 Alzheimer's Disease \OT1/cmr/m/n/10 49.3 (2015), pp. 407{422. 
+\OT1/cmr/m/sc/10 url\OT1/cmr/m/n/10 : $\OT1/cmtt/m/n/10 http : / / content .
+ []
+
+
+Overfull \hbox (1.94508pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 in emotional speech perception following transcranial direct cu
+rrent
+ []
+
+
+Overfull \hbox (3.29099pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 stimulation''. In: \OT1/cmr/m/it/10 Interspeech\OT1/cmr/m/n/10 
+. 2015. \OT1/cmr/m/sc/10 url\OT1/cmr/m/n/10 : $\OT1/cmtt/m/n/10 http : / / www 
+. cs . toronto .
+ []
+
+
+Overfull \hbox (1.51392pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 KC Fraser, F Zeller, D Harris-Smith, S Mohammad, and F Rudzic
+z.
+ []
+
+
+Overfull \hbox (2.56242pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/it/10 on Computational Approaches to Subjectivity, Sentiment and Soc
+ial
+ []
+
+
+Overfull \hbox (5.72833pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/it/10 Media Analysis (WASSA 2019)\OT1/cmr/m/n/10 . 2019. \OT1/cmr/m/
+sc/10 url\OT1/cmr/m/n/10 : $\OT1/cmtt/m/n/10 http : / / saifmohammad .
+ []
+
+
+Overfull \hbox (21.88168pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 KC Fraser, N Linz, B Li, KL Fors, F Rudzicz, A Konig, J Alexa
+ndersson,
+ []
+
+
+Overfull \hbox (8.39961pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 P Robert, and D Kokkinakis. ``Multilingual prediction of Alzhei
+mer's
+ []
+
+[6]
+Overfull \hbox (1.72115pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Grosse. ``The reversible residual network: Backpropagation with
+out
+ []
+
+
+Overfull \hbox (2.72794pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 storing activations''. In: \OT1/cmr/m/it/10 Advances in Neural 
+Information Processing
+ []
+
+
+Overfull \hbox (1.22676pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/it/10 Systems (NIPS)\OT1/cmr/m/n/10 . Ed. by Samy Bengio, Hanna Wall
+ach, Rob Fergus,
+ []
+
+
+Overfull \hbox (11.65617pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 L Gordon, P Austin, F Rudzicz, and T Grantcharov. ``MySurgery
+Risk
+ []
+
+
+Overfull \hbox (14.71596pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 208 (2016). \OT1/cmr/m/sc/10 url\OT1/cmr/m/n/10 : $\OT1/cmtt/m/
+n/10 http : / / authors . elsevier . com / a / 1Se0M4ZQDoHd7$\OT1/cmr/m/n/10 . 
+
+ []
+
+
+Overfull \hbox (14.18793pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Y Aliyari Ghassabeh and F Rudzicz. ``Modified mean shift algo
+rithm''.
+ []
+
+
+Overfull \hbox (3.42964pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Duvenaud. ``Backpropagation through the Void: Optimizing contro
+l
+ []
+
+
+Overfull \hbox (23.9064pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 variates for black-box gradient estimation''. In: \OT1/cmr/m/it
+/10 International Conference
+ []
+
+
+Overfull \hbox (3.42964pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Duvenaud. ``Backpropagation through the Void: Optimizing contro
+l
+ []
+
+
+Overfull \hbox (23.9064pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 variates for black-box gradient estimation''. In: \OT1/cmr/m/it
+/10 International Conference
+ []
+
+
+Overfull \hbox (3.5351pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Will Grathwohl, Elliot Creager, Seyed Kamyar Seyed Ghasemipou
+r,
+ []
+
+
+Overfull \hbox (4.06941pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 and Richard Zemel. \OT1/cmr/m/it/10 Gradient-based Optimization
+ of Neural Network
+ []
+
+[7]
+Overfull \hbox (2.97281pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 ``CloudCAST - Remote speech technology for speech professionals
+''.
+ []
+
+
+Overfull \hbox (24.13632pt too wide) in paragraph at lines 17--17
+\OT1/cmtt/m/n/10 publication / 307889553 _ CloudCAST_ -[] _Remote _ Speech _ Te
+chnology _
+ []
+
+
+Overfull \hbox (6.97232pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Learning Techniques''. In: \OT1/cmr/m/it/10 Scientific Forum pr
+ogram at the American
+ []
+
+
+Overfull \hbox (2.08339pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 YA Ghassabeh, F Rudzicz, and HA Moghaddam. ``Fast incremental
+
+ []
+
+
+Overfull \hbox (20.51259pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 LDA feature extraction''. In: \OT1/cmr/m/it/10 Pattern Recognit
+ion \OT1/cmr/m/n/10 48.6 (2015), pp. 1999{
+ []
+
+
+Overfull \hbox (5.41429pt too wide) in paragraph at lines 17--17
+\OT1/cmtt/m/n/10 sciencedirect . com / science / article / pii / S0167865515004
+079$\OT1/cmr/m/n/10 . 
+ []
+
+
+Overfull \hbox (14.544pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Angus Galloway, Graham W. Taylor, and Medhat Moussa. ``Attack
+ing
+ []
+
+
+Overfull \hbox (15.70029pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Binarized Neural Networks''. In: \OT1/cmr/m/it/10 International
+ Conference on Learning
+ []
+
+
+Overfull \hbox (21.38637pt too wide) in paragraph at lines 17--17
+\OT1/cmtt/m/n/10 video -[] object -[] segmentation -[] for -[] deep -[] reinfor
+cement -[] learning .
+ []
+
+
+Overfull \hbox (11.9452pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 new method for the systematic analysis of alternative polyadeny
+lation
+ []
+
+[8]
+Overfull \hbox (17.47296pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 multivariate variable-length sequences with an application to s
+imilarity
+ []
+
+
+Overfull \hbox (6.92557pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 S Hossain, K Jamali, Y Li, and F Rudzicz. ``ChainGAN: A seque
+ntial
+ []
+
+
+Overfull \hbox (2.35011pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/it/10 Computer Interaction Conference (BHCI-2018), Belfast, UK\OT1/c
+mr/m/n/10 . 2018.
+ []
+
+
+Overfull \hbox (17.584pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 ``Robustness against the channel effect in pathological voice d
+etection''.
+ []
+
+
+Overfull \hbox (37.32063pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 and Roger B. Grosse. ``TimbreTron: A WaveNet(CycleGAN(CQT(Audio
+)))
+ []
+
+
+Overfull \hbox (4.07295pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Pipeline for Musical Timbre Transfer''. In: \OT1/cmr/m/it/10 In
+ternational Conference
+ []
+
+
+Overfull \hbox (22.88242pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Branson. ``Quantitatively Evaluating GANs With Divergences Prop
+osed
+ []
+
+
+Overfull \hbox (25.12193pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 for Training''. In: \OT1/cmr/m/it/10 International Conference o
+n Learning Representations\OT1/cmr/m/n/10 .
+ []
+
+
+Overfull \hbox (14.31621pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Joern-Henrik Jacobsen, Jens Behrmann, Richard Zemel, and Matt
+hias
+ []
+
+
+Overfull \hbox (6.51732pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 S Jeblee, A Budhkar, S Milic, J Pinto, C Pou-Prom, K Vishnubh
+otla,
+ []
+
+
+Overfull \hbox (10.94801pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Grounded RL on Structured Language''. In: \OT1/cmr/m/it/10 Inte
+rnational Conference
+ []
+
+[9]
+Overfull \hbox (11.70847pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Priyank Jaini, Pascal Poupart, and Yaoliang Yu. ``Deep Homoge
+neous
+ []
+
+
+Overfull \hbox (1.48517pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Mixture Models: Representation, Separation, and Approximation''
+.
+ []
+
+
+Overfull \hbox (25.18779pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 7145. \OT1/cmr/m/sc/10 url\OT1/cmr/m/n/10 : $\OT1/cmtt/m/n/10 h
+ttp : / / papers . nips . cc / paper / 7944 -[] deep -[] homogeneous -[]
+ []
+
+
+Overfull \hbox (26.13632pt too wide) in paragraph at lines 17--17
+\OT1/cmtt/m/n/10 mixture -[] models -[] representation -[] separation -[] and -
+[] approximation .
+ []
+
+
+Overfull \hbox (1.53844pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Agastya Kalra, Abdullah Rashwan, Wei-Shou Hsu, Pascal Poupart
+,
+ []
+
+
+Overfull \hbox (16.44124pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Prashant Doshi, and Georgios Trimponias. ``Online Structure Lea
+rning
+ []
+
+
+Overfull \hbox (19.01799pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 for Feed-Forward and Recurrent Sum-Product Networks''. In: \OT1
+/cmr/m/it/10 Advances
+ []
+
+
+Overfull \hbox (14.45079pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 ``AutoScribe: Extracting clinically pertinent information from 
+patient-
+ []
+
+
+Overfull \hbox (4.4551pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Evgeny Andriyash, Andrew Berkley, Mauricio Reis, Trevor Lanting
+,
+ []
+
+
+Overfull \hbox (7.88968pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 of topological phenomena in a programmable lattice of 1,800 qub
+its''.
+ []
+
+
+Overfull \hbox (51.99287pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Kraus. Vol. 80. Proceedings of Machine Learning Research. Stock
+holmsmassan,
+ []
+
+[10]
+Overfull \hbox (20.79173pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Vol. 80. Proceedings of Machine Learning Research. Stockholmsm
+assan,
+ []
+
+
+Overfull \hbox (0.25195pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/it/10 learning for MEG during speech tasks\OT1/cmr/m/n/10 . \OT1/cmr
+/m/sc/10 url\OT1/cmr/m/n/10 : $\OT1/cmtt/m/n/10 https : / / www . nature .
+ []
+
+
+Overfull \hbox (5.1938pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 during speech tasks''. In: \OT1/cmr/m/it/10 Nature Scientific R
+eports \OT1/cmr/m/n/10 9 (2018), p. 1609.
+ []
+
+
+Overfull \hbox (13.68788pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 2016. \OT1/cmr/m/sc/10 url\OT1/cmr/m/n/10 : $\OT1/cmtt/m/n/10 h
+ttps : / / www . semanticscholar . org / paper / Combining -[]
+ []
+
+
+Overfull \hbox (15.09727pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Jack Klys, Jake Snell, and Richard Zemel. ``Learning Latent S
+ubspaces
+ []
+
+
+Overfull \hbox (1.9109pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/it/10 Processing Systems 31\OT1/cmr/m/n/10 . Ed. by S. Bengio, H. Wa
+llach, H. Larochelle,
+ []
+
+
+Overfull \hbox (26.63632pt too wide) in paragraph at lines 17--17
+\OT1/cmtt/m/n/10 7880 -[] learning -[] latent -[] subspaces -[] in -[] variatio
+nal -[] autoencoders .
+ []
+
+[11]
+Overfull \hbox (15.09727pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Jack Klys, Jake Snell, and Richard Zemel. ``Learning Latent S
+ubspaces
+ []
+
+
+Overfull \hbox (23.42844pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/it/10 Processing Systems (NeurIPS)\OT1/cmr/m/n/10 . Ed. by Hanna Wal
+lach, Hugo Larochelle,
+ []
+
+
+Overfull \hbox (8.89954pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Marc T Law, Jake Snell, Amir massoud Farahmand, Raquel Urtasu
+n,
+ []
+
+
+Overfull \hbox (10.65634pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 the Knowledge of Probabilistic Models''. In: \OT1/cmr/m/it/10 I
+nternational Conference
+ []
+
+
+Overfull \hbox (6.87852pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Jonathan Lorraine and David Duvenaud. \OT1/cmr/m/it/10 Stocha
+stic Hyperparameter
+ []
+
+
+Overfull \hbox (3.37361pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Chinese using transfer learning from a parallel corpus''. In: \
+OT1/cmr/m/it/10 NAACL\OT1/cmr/m/n/10 .
+ []
+
+
+Overfull \hbox (2.93285pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Learning Research. Stockholmsmassan, Stockholm Sweden: PMLR,
+ []
+
+[12]
+Overfull \hbox (7.27846pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 ``Challenges with Real-World Smartwatch based Audio Monitoring'
+'.
+ []
+
+
+Overfull \hbox (0.20134pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/it/10 Annual International Conference on Mobile Systems, Application
+s,
+ []
+
+
+Overfull \hbox (28.2157pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Gershon. ``Towards Ambulatory Cough Monitoring using Smartwatch
+es''.
+ []
+
+
+Overfull \hbox (6.88943pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 In: \OT1/cmr/m/it/10 Proceedings of the American Thoracic Socie
+ty\OT1/cmr/m/n/10 . 2018. \OT1/cmr/m/sc/10 url\OT1/cmr/m/n/10 : $\OT1/cmtt/m/n/
+10 https :
+ []
+
+
+Overfull \hbox (8.38646pt too wide) in paragraph at lines 17--17
+\OT1/cmtt/m/n/10 / / www . atsjournals . org / doi / abs / 10 . 1164 / ajrccm -
+[] conference .
+ []
+
+
+Overfull \hbox (10.38963pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 model for neurological degeneration in an image captioning netw
+ork''.
+ []
+
+
+Overfull \hbox (5.75752pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Curran Associates, Inc., 2018, pp. 9029{9040. \OT1/cmr/m/sc/10 
+url\OT1/cmr/m/n/10 : $\OT1/cmtt/m/n/10 http : / / papers .
+ []
+
+
+Overfull \hbox (9.88646pt too wide) in paragraph at lines 17--17
+\OT1/cmtt/m/n/10 nips . cc / paper / 8117 -[] reversible -[] recurrent -[] neur
+al -[] networks .
+ []
+
+
+Overfull \hbox (2.98294pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Matthew Mackay, Paul Vicol, Jonathan Lorraine, David Duvenaud
+,
+ []
+
+[13]
+Overfull \hbox (0.84395pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 David Madras, Elliot Creager, Toniann Pitassi, and Richard Ze
+mel.
+ []
+
+
+Overfull \hbox (15.29204pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/it/10 Fairness Through Causal Awareness: Learning Latent-Variable Mo
+dels
+ []
+
+
+Overfull \hbox (0.84395pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 David Madras, Elliot Creager, Toniann Pitassi, and Richard Ze
+mel.
+ []
+
+
+Overfull \hbox (18.11133pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/it/10 Learning\OT1/cmr/m/n/10 . Ed. by Jennifer Dy and Andreas Kraus
+e. Vol. 80. Proceedings
+ []
+
+
+Overfull \hbox (17.51067pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 of Machine Learning Research. Stockholmsmassan, Stockholm Swed
+en:
+ []
+
+
+Overfull \hbox (3.90288pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 James Martens, Jimmy Ba, and Matt Johnson. ``Kronecker-factor
+ed
+ []
+
+
+Overfull \hbox (16.0695pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 David Madras, Toni Pitassi, and Richard Zemel. ``Predict Resp
+onsibly:
+ []
+
+
+Overfull \hbox (11.9347pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Improving Fairness and Accuracy by Learning to Defer''. In: \OT
+1/cmr/m/it/10 Advances
+ []
+
+
+Overfull \hbox (32.18066pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 David Madras, Toniann Pitassi, and Richard Zemel. ``Predict R
+esponsibly:
+ []
+
+
+Overfull \hbox (11.9347pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Improving Fairness and Accuracy by Learning to Defer''. In: \OT
+1/cmr/m/it/10 Advances
+ []
+
+
+Overfull \hbox (6.2243pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/it/10 in Neural Information Processing Systems (NeurIPS)\OT1/cmr/m/n
+/10 . Ed. by Hanna
+ []
+
+
+Overfull \hbox (7.3228pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Rietveld, B Maassen, R Kroll, and PHHM Van Lieshout. ``Treatmen
+t
+ []
+
+
+Overfull \hbox (7.24545pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 intensity and childhood apraxia of speech''. In: \OT1/cmr/m/it/
+10 International Journal
+ []
+
+[14]
+Overfull \hbox (20.13135pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/it/10 on Speech and Language Processing for Assistive Technologies (
+SLPAT)
+ []
+
+
+Overfull \hbox (29.09807pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 ``EEG dimensionality reduction in automatic identification of s
+ynonymy''.
+ []
+
+
+Overfull \hbox (5.8393pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 In: \OT1/cmr/m/it/10 ICASSP\OT1/cmr/m/n/10 . 2015. \OT1/cmr/m/s
+c/10 url\OT1/cmr/m/n/10 : $\OT1/cmtt/m/n/10 http : / / ieeexplore . ieee . org 
+/ document /
+ []
+
+
+Overfull \hbox (1.65584pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 intelligence in medicine''. In: \OT1/cmr/m/it/10 University of 
+Toronto Medical Journal
+ []
+
+
+Overfull \hbox (13.31288pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Zemel. ``Meta-Learning for Semi-Supervised Few-Shot Classificat
+ion''.
+ []
+
+[15]
+Overfull \hbox (13.31288pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Zemel. ``Meta-Learning for Semi-Supervised Few-Shot Classificat
+ion''.
+ []
+
+
+Overfull \hbox (0.4156pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Morteza Rezanejad, Gabriel Downs, John Wilder, Dirk B. Walthe
+r,
+ []
+
+
+Overfull \hbox (14.70065pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Categorization from Contours: Medial Axis Based Salience Measur
+es''.
+ []
+
+
+Overfull \hbox (10.96396pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 F Rudzicz, S Raimondo, and C Pou-Prom. ``Ludwig: A conversati
+onal
+ []
+
+
+Overfull \hbox (1.72952pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Deshwar, Nil Sahin, and Quaid Morris. \OT1/cmr/m/it/10 Reconstr
+ucting evolutionary
+ []
+
+
+Overfull \hbox (12.25037pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/it/10 trajectories of mutations in cancer\OT1/cmr/m/n/10 . 2018. \OT
+1/cmr/m/sc/10 url\OT1/cmr/m/n/10 : $\OT1/cmtt/m/n/10 https : / / openreview .
+ []
+
+
+Overfull \hbox (8.98949pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 F Rudzicz, R Wang, M Begum, and A Mihailidis. ``Speech intera
+ction
+ []
+
+
+Overfull \hbox (17.44522pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 with personal assistive robots supporting aging-at-home for ind
+ividuals
+ []
+
+
+Overfull \hbox (0.84674pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Amir Rosenfeld, Richard Zemel, and John K Tsotsos. \OT1/cmr/m
+/it/10 The Elephant
+ []
+
+[16]
+Overfull \hbox (10.9006pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Regularized Optimal Transport''. In: \OT1/cmr/m/it/10 Advances 
+in Neural Information
+ []
+
+
+Overfull \hbox (1.9109pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/it/10 Processing Systems 31\OT1/cmr/m/n/10 . Ed. by S. Bengio, H. Wa
+llach, H. Larochelle,
+ []
+
+
+Overfull \hbox (11.7901pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Weights Using the Local Reparameterization Trick''. In: \OT1/cm
+r/m/it/10 International
+ []
+
+
+Overfull \hbox (9.74512pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/it/10 Conference on Learning Representations (ICLR)\OT1/cmr/m/n/10 .
+ 2018. eprint: $\OT1/cmtt/m/n/10 1710 .
+ []
+
+
+Overfull \hbox (5.22955pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 F Sattar and F Rudzicz. ``Principal differential analysis for
+ detection
+ []
+
+
+Overfull \hbox (33.1843pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/it/10 Speech & Language \OT1/cmr/m/n/10 36.294-306 (2016). \OT1/cmr/
+m/sc/10 url\OT1/cmr/m/n/10 : $\OT1/cmtt/m/n/10 http : / / www . sciencedirect .
+
+ []
+
+
+Overfull \hbox (18.15285pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Jake Snell, Kevin Swersky, and Richard Zemel. ``Prototypical 
+Networks
+ []
+
+
+Overfull \hbox (19.0335pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 for Few-Shot Learning''. In: \OT1/cmr/m/it/10 Advances in Neura
+l Information Processing
+ []
+
+
+Overfull \hbox (1.22676pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/it/10 Systems (NIPS)\OT1/cmr/m/n/10 . Ed. by Samy Bengio, Hanna Wall
+ach, Rob Fergus,
+ []
+
+
+Overfull \hbox (0.72371pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Kraus. Stockholmsmassan, Stockholm, Sweden, 2018. arXiv: $\OT1
+/cmtt/m/n/10 1806 .
+ []
+
+[17]
+Overfull \hbox (30.69514pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 ``FUNCTIONAL VARIATIONAL BAYESIAN NEURAL NETWORKS''.
+ []
+
+
+Overfull \hbox (9.6292pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Shot Learning Through an Information Retrieval Lens''. In: \OT1
+/cmr/m/it/10 Advances
+ []
+
+
+Overfull \hbox (27.12895pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/it/10 train-test splitting, and sparse exchangeable Poisson matrix f
+actorization\OT1/cmr/m/n/10 .
+ []
+
+
+Overfull \hbox (0.68677pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 ``MovieGraphs: Towards Understanding Human-Centric Situations
+ []
+
+
+Overfull \hbox (34.31479pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/it/10 2nd International Workshop on Conversational Approaches to Inf
+ormation
+ []
+
+
+Overfull \hbox (28.1443pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Network Posteriors''. In: \OT1/cmr/m/it/10 Proceedings of the 3
+5th International Conference
+ []
+
+
+Overfull \hbox (20.79173pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Vol. 80. Proceedings of Machine Learning Research. Stockholmsm
+assan,
+ []
+
+[18]
+Overfull \hbox (28.1443pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Network Posteriors''. In: \OT1/cmr/m/it/10 Proceedings of the 3
+5th International Conference
+ []
+
+
+Overfull \hbox (51.99287pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Kraus. Vol. 80. Proceedings of Machine Learning Research. Stock
+holmsmassan,
+ []
+
+
+Overfull \hbox (6.87845pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Tingwu Wang, Renjie Liao, Jimmy Ba, and Sanja Fidler. ``Nerve
+Net:
+ []
+
+
+Overfull \hbox (2.15944pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 J Wang, KC Wang, MT Law, F Rudzicz, and M Brudno. ``Centroid-
+
+ []
+
+
+Overfull \hbox (30.67586pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Graph Evolution: Automatic Robot Design''. In: \OT1/cmr/m/it/10
+ International Conference
+ []
+
+
+Overfull \hbox (12.61008pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Grosse. ``Flipout: Efficient Pseudo-Independent Weight Perturba
+tions
+ []
+
+
+Overfull \hbox (44.4275pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 on Mini-Batches''. In: \OT1/cmr/m/it/10 International Conferenc
+e on Learning Representations\OT1/cmr/m/n/10 .
+ []
+
+
+Overfull \hbox (2.74365pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 (2018). \OT1/cmr/m/sc/10 url\OT1/cmr/m/n/10 : $\OT1/cmtt/m/n/10
+ https : / / www . ncbi . nlm . nih . gov / pubmed / 29903700$\OT1/cmr/m/n/10 .
+ 
+ []
+
+
+Overfull \hbox (26.82907pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Nearly Continuous Monitoring Of Patients With COPD''. In: \OT1/
+cmr/m/it/10 Proceedings
+ []
+
+[19]
+Overfull \hbox (28.67004pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Yuhuai Wu, Mengye Ren, Renjie Liao, and Roger Grosse. ``Under
+standing
+ []
+
+
+Overfull \hbox (20.79022pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Short-Horizon Bias in Stochastic Meta-Optimization''. In: \OT1/
+cmr/m/it/10 International
+ []
+
+
+Overfull \hbox (3.97163pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/it/10 Processing for Assistive Technologies (SLPAT) at Interspeech\O
+T1/cmr/m/n/10 . 2015.
+ []
+
+
+Overfull \hbox (4.23622pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 KiJung Yoon, Renjie Liao, Yuwen Xiong, Lisa Zhang, Ethan Feta
+ya,
+ []
+
+
+Overfull \hbox (8.22945pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 M Yancheva and F Rudzicz. ``Vector-space topic models for det
+ecting
+ []
+
+
+Overfull \hbox (6.44678pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Rudzicz. ``Social media in human-robot-interaction''. In: \OT1/
+cmr/m/it/10 Proceedings
+ []
+
+
+Overfull \hbox (7.45833pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 L Zhou, K Fraser, and F Rudzicz. ``Speech recognition in Alzh
+eimer's
+ []
+
+
+Overfull \hbox (15.25357pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/it/10 Proceedings of the 35th International Conference on Machine Le
+arning
+ []
+
+
+Overfull \hbox (10.00584pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/it/10 (ICML)\OT1/cmr/m/n/10 . Ed. by Jennifer Dy and Andreas Kraus. 
+Vol. 80. Proceedings
+ []
+
+
+Overfull \hbox (20.29178pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 of Machine Learning Research. Stockholmsmassan, Stockholm, Swe
+den:
+ []
+
+
+Overfull \hbox (15.25357pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/it/10 Proceedings of the 35th International Conference on Machine Le
+arning
+ []
+
+
+Overfull \hbox (10.00584pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/it/10 (ICML)\OT1/cmr/m/n/10 . Ed. by Jennifer Dy and Andreas Kraus. 
+Vol. 80. Proceedings
+ []
+
+
+Overfull \hbox (20.29178pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 of Machine Learning Research. Stockholmsmassan, Stockholm, Swe
+den:
+ []
+
+[20]
+Overfull \hbox (7.47234pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Lisa Zhang, Gregory Rosenblatt, Ethan Fetaya, Renjie Liao, Wi
+lliam
+ []
+
+
+Overfull \hbox (6.49304pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 E. Byrd, Raquel Urtasun, and Richard Zemel. \OT1/cmr/m/it/10 Le
+veraging Constraint
+ []
+
+
+Overfull \hbox (7.47234pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Lisa Zhang, Gregory Rosenblatt, Ethan Fetaya, Renjie Liao, Wi
+lliam
+ []
+
+
+Overfull \hbox (6.43394pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Byrd, Matthew Might, Raquel Urtasun, and Richard Zemel. ``Neura
+l
+ []
+
+
+Overfull \hbox (21.38637pt too wide) in paragraph at lines 17--17
+\OT1/cmtt/m/n/10 guided -[] constraint -[] logic -[] programming -[] for -[] pr
+ogram -[] synthesis .
+ []
+
+
+Overfull \hbox (7.47234pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Lisa Zhang, Gregory Rosenblatt, Ethan Fetaya, Renjie Liao, Wi
+lliam
+ []
+
+
+Overfull \hbox (23.34799pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 ``Neural Guided Constraint Logic Programming for Program Synthe
+sis''.
+ []
+
+
+Overfull \hbox (2.115pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 In: \OT1/cmr/m/it/10 Advances in Neural Information Processing 
+Systems (NeurIPS)\OT1/cmr/m/n/10 .
+ []
+
+
+Overfull \hbox (18.70677pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 ``Three Mechanisms of Weight Decay Regularization''. In: \OT1/c
+mr/m/it/10 International
+ []
+
+
+Overfull \hbox (7.59727pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Z Zhu, J Novikova, and F Rudzicz. ``Detecting cognitive impai
+rments
+ []
+
+
+Overfull \hbox (24.00006pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Chris Zhang, Mengye Ren, and Raquel Urtasun. ``Graph HyperNet
+works
+ []
+
+[21]
+Overfull \hbox (14.31752pt too wide) in paragraph at lines 17--17
+\OT1/cmr/m/n/10 Shake Me: Towards Automatic 4D Cinema''. In: \OT1/cmr/m/it/10 T
+he IEEE Conference
+ []
+
+[22] (view.aux)
+Package logreq Info: Writing requests to 'view.run.xml'.
+\openout1 = `view.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 7724 strings out of 494864
+ 153801 string characters out of 3176555
+ 505042 words of memory out of 3000000
+ 11363 multiletter control sequences out of 15000+200000
+ 5060 words of font info for 19 fonts, out of 3000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 39i,4n,45p,821b,1223s stack positions out of 5000i,500n,10000p,200000b,50000s
+ </Users/adrian/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfou
+r/public/cm/dpi600/cmcsc10.pk> </Users/adrian/Library/Application Support/MiKTe
+X/texmfs/data/fonts/pk/ljfour/public/cm/dpi600/cmti10.pk> </Users/adrian/Librar
+y/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/public/cm/dpi720/cmbx1
+2.pk> </Users/adrian/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/lj
+four/public/cm/dpi600/cmtt10.pk> </Users/adrian/Library/Application Support/MiK
+TeX/texmfs/data/fonts/pk/ljfour/public/cm/dpi600/cmr10.pk>
+Output written on view.pdf (22 pages, 147545 bytes).
+PDF statistics:
+ 341 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
