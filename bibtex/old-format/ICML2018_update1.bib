@@ -91,3 +91,41 @@
   url = 	 {http://proceedings.mlr.press/v80/cremer18a.html},
   abstract = 	 {Amortized inference allows latent-variable models trained via variational learning to scale to large datasets. The quality of approximate inference is determined by two factors: a) the capacity of the variational distribution to match the true posterior and b) the ability of the recognition network to produce good variational parameters for each datapoint. We examine approximate inference in variational autoencoders in terms of these factors. We find that divergence from the true posterior is often due to imperfect recognition networks, rather than the limited complexity of the approximating distribution. We show that this is due partly to the generator learning to accommodate the choice of approximation. Furthermore, we show that the parameters used to increase the expressiveness of the approximation play a role in generalizing inference rather than simply improving the complexity of the approximation.}
 }
+
+
+
+@InProceedings{pmlr-v80-pan18a,
+  title = 	 {Reinforcement Learning with Function-Valued Action Spaces for Partial Differential Equation Control},
+  author = 	 {Pan, Yangchen and Farahmand, Amir-massoud and White, Martha and Nabi, Saleh and Grover, Piyush and Nikovski, Daniel},
+  booktitle = 	 {Proceedings of the 35th International Conference on Machine Learning},
+  pages = 	 {3986--3995},
+  year = 	 {2018},
+  editor = 	 {Dy, Jennifer and Krause, Andreas},
+  volume = 	 {80},
+  series = 	 {Proceedings of Machine Learning Research},
+  address = 	 {Stockholmsmässan, Stockholm Sweden},
+  month = 	 {10--15 Jul},
+  publisher = 	 {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v80/pan18a/pan18a.pdf},
+  url = 	 {http://proceedings.mlr.press/v80/pan18a.html},
+  abstract = 	 {Recent work has shown that reinforcement learning (RL) is a promising approach to control dynamical systems described by partial differential equations (PDE). This paper shows how to use RL to tackle more general PDE control problems that have continuous high-dimensional action spaces with spatial relationship among action dimensions. In particular, we propose the concept of action descriptors, which encode regularities among spatially-extended action dimensions and enable the agent to control high-dimensional action PDEs. We provide theoretical evidence suggesting that this approach can be more sample efficient compared to a conventional approach that treats each action dimension separately and does not explicitly exploit the spatial regularity of the action space. The action descriptor approach is then used within the deep deterministic policy gradient algorithm. Experiments on two PDE control problems, with up to 256-dimensional continuous actions, show the advantage of the proposed approach over the conventional one}
+}
+
+
+@InProceedings{pmlr-v80-ren18a,
+  title = 	 {Learning to Reweight Examples for Robust Deep Learning},
+  author = 	 {Ren, Mengye and Zeng, Wenyuan and Yang, Bin and Urtasun, Raquel},
+  booktitle = 	 {Proceedings of the 35th International Conference on Machine Learning},
+  pages = 	 {4334--4343},
+  year = 	 {2018},
+  editor = 	 {Dy, Jennifer and Krause, Andreas},
+  volume = 	 {80},
+  series = 	 {Proceedings of Machine Learning Research},
+  address = 	 {Stockholmsmässan, Stockholm Sweden},
+  month = 	 {10--15 Jul},
+  publisher = 	 {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v80/ren18a/ren18a.pdf},
+  url = 	 {http://proceedings.mlr.press/v80/ren18a.html},
+  abstract = 	 {Deep neural networks have been shown to be very powerful modeling tools for many supervised learning tasks involving complex input patterns. However, they can also easily overfit to training set biases and label noises. In addition to various regularizers, example reweighting algorithms are popular solutions to these problems, but they require careful tuning of additional hyperparameters, such as example mining schedules and regularization hyperparameters. In contrast to past reweighting methods, which typically consist of functions of the cost value of each example, in this work we propose a novel meta-learning algorithm that learns to assign weights to training examples based on their gradient directions. To determine the example weights, our method performs a meta gradient descent step on the current mini-batch example weights (which are initialized from zero) to minimize the loss on a clean unbiased validation set. Our proposed method can be easily implemented on any type of deep network, does not require any additional hyperparameter tuning, and achieves impressive performance on class imbalance and corrupted label problems where only a small amount of clean validation data is available.}}
+}
+
