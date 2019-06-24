@@ -1,57 +1,241 @@
-@article{DBLP:journals/corr/abs-1708-04552,
-  author    = {Terrance Devries and
-               Graham W. Taylor},
-  title     = {Improved Regularization of Convolutional Neural Networks with Cutout},
-  journal   = {CoRR},
-  volume    = {abs/1708.04552},
-  year      = {2017},
-  url       = {http://arxiv.org/abs/1708.04552},
-  archivePrefix = {arXiv},
-  eprint    = {1708.04552},
-  timestamp = {Mon, 13 Aug 2018 16:45:57 +0200},
-  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1708-04552},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+@string{alavi = "Shamir Alavi"}
+@string{biswaranjan = "Kumar Biswaranjan"}
+@string{buchman = "Ethan Buchman"}
+@string{sixta = "Tomas Sixta"}
+@string{abuleil = "Ammar AbuLeil"}
+@string{veres = "Matthew Veres"}
+@string{lacey = "Griffin Lacey"}
+@string{lisicki = "Michal Lisicki"}
+@string{devries = "Terrance DeVries"}
+@string{ding = "Weiguang Ding"}
+@string{im = "Daniel Jiwoong Im"}
+@string{jiu = "Mingyuan Jiu"}
+@string{fanli = "Fan Li"}
+@string{myname = "Graham Taylor"}
+@string{ma = "He Ma"}
+@string{neverova = "Natalia Neverova"}
+@string{noland = "Eric Noland"}
+@string{ramachandram = "Dhanesh Ramachandram"}
+@string{rudy = "Jan Rudy"}
+@string{sapru = "Nikhil Sapru"}
+@string{spiro = "Ian Spiro"}
+@string{zeiler = "Matthew Zeiler"}
+@string{kumar = "Devinder Kumar"}
+@string{shamli = "Ahmed Elshamli"}
+@string{galloway = "Angus Galloway"}
+@string{kennedy = "Brad Kennedy"}
+@string{knight = "Jesse Knight"}
+@string{duke = "Brendan Duke"}
+@string{elnouby = "Alaaeldin El-Nouby"}
+@string{schneider = "Stefan Schneider"}
+@string{jonschneider = "Jonathan Schneider"}
+@string{murali = "Nihal Murali"}
+@string{dutta = "Shamak Dutta"}
+@string{brennan = "Colin Brennan"}
+@string{augusta = "Carolyn Augusta"}
+@string{thangarasa = "Vithursan Thangarasa"}
+@string{knyazev = "Boris Knyazev"}
+@string{balint = "Adam Balint"}
+@string{teh = "\{Eu Wern\} Teh"}
+
+@article{schneider2018acan,
+  Author = jonschneider # " and " # murali # " and " # myname # " and Joel Levine",
+  Title = {Can {Drosophila melanogaster} tell who's who?},
+  Journal = {PLOS One},
+  Volume = 13,
+  Number = 10,
+  Year = 2018,
+  url = {https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0205043&type=printable}
+  }
+
+ @article{knight2018voxel,
+ Author = knight # " and " # myname # " and April Khademi",
+ Title = {Voxel-Wise Logistic Regression and Leave-One-Source-Out Cross Validation for White Matter Hyperintensity Segmentation},
+ Journal = {Magnetic Resonance Imaging},
+ Volume = 54,
+ Pages = {119--136},
+ Year = 2018,
+ url = {https://www.sciencedirect.com/science/article/abs/pii/S0730725X1830225X?via\%3Dihub}
+  }
+
+@inproceedings{murali2019classification,
+    Author = murali # " and " # jonschneider # " and Joel Levine and " # myname,
+    Title = {Classification and Re-Identification of Fruit Fly Individuals Across Days with Convolutional Neural Networks},
+    Booktitle = {{IEEE} Winter Conference on Applications of Computer Vision (WACV)},
+    Year = 2019,
+    url = {https://uoguelphca-my.sharepoint.com/:b:/g/personal/gwtaylor_uoguelph_ca/EWbPk_7qhSlJqJrOSM4WHogB203EU_UPY1qGKcq3SFXr8w?e=7hmRxe}
+    }
+
+@inproceedings{thangarasa2018self,
+  Author = thangarasa # " and " # myname,
+  Title = {Self-Paced Learning with Adaptive Deep Visual Embeddings},
+  Booktitle = {British Machine Vision Conference (BMVC)},
+  Year = 2018,
+  url = {https://arxiv.org/abs/1807.09200},
+  archiveprefix={arXiv},
+  primaryclass={cs.LG},
+  eprint={1807.09200}
+  }
+
+@inproceedings{lacey2018stochastic,
+    Author = lacey # " and " # myname # " and Shawki Areibi",
+    Title = {Stochastic Layer-Wise Precision in Deep Neural Networks},
+    crossref={UAI2018},
+    url = {https://arxiv.org/abs/1807.00942},
+    archiveprefix={arXiv},
+  primaryclass={cs.LG},
+  eprint={1807.00942}
+    }
+
+ @inproceedings{baradel2018glimpse,
+  Author = "Fabien Baradel and Christian Wolf and Julien Mille and " # myname,
+  Title = {Glimpse Clouds: Human Activity Recognition from Unstructured Feature Points},
+  Booktitle = {Proc.~of the 31st {IEEE} Computer Society Conference on Computer Vision and Pattern Recognition ({CVPR})},
+  url = {https://arxiv.org/abs/1802.07898},
+  Year = 2018,
+  archiveprefix={arXiv},
+  primaryclass={cs.CV},
+  eprint={1802.07898}
+  }
+
+ @inproceedings{galloway2018attacking,
+  Author = galloway # " and " # myname # " and Medhat Moussa",
+  Title = {Attacking Binarized Neural Networks},
+  url = {https://arxiv.org/abs/1711.00449},
+  crossref={ICLR2018},
+  archiveprefix={arXiv},
+  primaryclass={cs.LG},
+  eprint={1711.00449}
+  }
+
+  @inproceedings{im2018quantitatively,
+  Author = im # " and " # ma # " and " # myname # " and Kristen Branson",
+  Title = {Quantitatively Evaluating {GANs} with Divergences Proposed for Training},
+  crossref={ICLR2018},
+  url = {https://arxiv.org/abs/1803.01045},
+  archiveprefix={arXiv},
+  primaryclass={cs.LG},
+  eprint={1803.01045}
+  }
+
+  @inproceedings{kumar2018understanding,
+  Author = kumar # " and Vlado Menkovski and " # myname # " and Alexander Wong",
+  Title = {Understanding Anatomy Classification through Attentive Response Maps},
+  Booktitle = {{IEEE} International Symposium on Biomedical Imaging (ISBI)},
+  Year = 2018,
+  url = {https://arxiv.org/abs/1611.06284},
+  archiveprefix={arXiv},
+  primaryclass={cs.CV},
+  eprint={1611.06284}
+  }
+
+  @inproceedings{thangarasa2019differentiable,
+  Author = thangarasa # " and Thomas Miconi and " # myname,
+  Title = {Differentiable Hebbian Plasticity for Continual Learning},
+  Booktitle = {International Conference on Machine Learning (ICML) Workshop on Adaptive and Multitask Learning},
+  Year = 2019,
+  url = {https://openreview.net/pdf?id=r1x-E5Ss34}
+  }
+
+  @inproceedings{galloway2019abatch,
+  Author = galloway # " and Anna Golubeva and Thomas Tanay and Medhat Moussa and " # myname,
+  Title = {Batch Normalization is a Cause of Adversarial Vulnerability},
+  Booktitle = {International Conference on Machine Learning (ICML) Workshop on Identifying and Understanding Deep Learning Phenomena},
+  Year = 2019,
+  url = {https://arxiv.org/abs/1905.02161},
+  archiveprefix={arXiv},
+  primaryclass={cs.LG},
+  eprint={1905.02161}
+  }
+
+  @inproceedings{kumar2019beyond,
+  Author = kumar # " and Ibrahim Ben-Daya and Kanav Vats and Jeffery Feng and " # myname # " and Alexander Wong",
+  Title = {Beyond Explainability: Leveraging Interpretability for Improved Adversarial Learning},
+  Booktitle = {{IEEE} CVPR Workshop on Explainable Computer Vision},
+  url = {https://arxiv.org/abs/1904.09633},
+  Year = 2019,
+  archiveprefix={arXiv},
+  primaryclass={cs.LG},
+  eprint={1904.09633}
 }
 
-@article{DBLP:journals/corr/abs-1802-04865,
-  author    = {Terrance Devries and
-               Graham W. Taylor},
-  title     = {Learning Confidence for Out-of-Distribution Detection in Neural Networks},
-  journal   = {CoRR},
-  volume    = {abs/1802-04865},
-  year      = {2018},
-  url       = {https://arxiv.org/abs/1802.04865},
+@inproceedings{knyazev2019understanding,
+  Author = knyazev # " and " # myname # " and Mohamed Amer",
+  Title = {Understanding Attention in Graph Neural Networks},
+  Booktitle = {International Conference on Learning Representations (ICLR) Workshop on Representation Learning on Graphs and Manifolds},
+  Year = 2019,
+  url = {http://arxiv.org/abs/1905.02850},
+  archiveprefix={arXiv},
+  primaryclass={cs.LG},
+  eprint={1905.02850}
+  }
+
+  @inproceedings{galloway2018fault,
+  Author = galloway # " and Anna Golubeva and " # myname,
+  Title = {Adversarial Examples as an Input-Fault Tolerance Problem},
+  Booktitle = {Neural Information Processing Systems (NeurIPS) Workshop on Security in Machine Learning},
+  Year = 2018,
+  url = {https://arxiv.org/abs/1811.12601},
+   archiveprefix={arXiv},
+  primaryclass={cs.LG},
+  eprint={1811.12601}
+  }
+
+  @inproceedings{elnouby2018keep,
+  Author = elnouby # " and Shikhar Sharma and Hannes Schulz and Devon Hjelm and Layla El Asri and Samira Ebrahimi Kahou and Yoshua Bengio and " # myname,
+  Title = {Keep Drawing It: Iterative language-based image generation and editing},
+  Booktitle = {Neural Information Processing Systems (NeurIPS) Workshop on Visually Grounded Interaction and Language (ViGIL)},
+  Year = 2018,
+  url = {https://nips2018vigil.github.io/static/papers/accepted/13.pdf}
+  }
+
+  @inproceedings{knyazev2018spectral,
+  Author = knyazev # " and Lin, Xiao and Amer, Mohamed R. and " # myname,
+  Title = {Spectral Multigraph Networks for Discovering and Fusing Relationships in Molecules},
+  Booktitle = {Neural Information Processing Systems (NeurIPS) Workshop on Machine Learning for Molecules and Materials},
+  Year = 2018,
+  url = {https://arxiv.org/abs/1811.09595},
+  archiveprefix={arXiv},
+  primaryclass={cs.LG},
+  eprint={1811.09595}
+  }
+
+  @article{galloway2018aadversarial,
+  Author = galloway # " and Thomas Tanay and " # myname,
+  Title = {Adversarial Training Versus Weight Decay},
+  url = {https://arxiv.org/abs/1804.03308},
+  Year = 2018,
   archivePrefix = {arXiv},
-  eprint    = {1802-04865},
-  timestamp = {Mon, 13 Aug 2018 16:45:57 +0200},
+  eprint = {1804.03308},
+  primaryClass = {cs.LG}
+  }
+
+ @article{galloway2018predicting,
+       Author = galloway # " and " # myname # " and Medhat Moussa",
+       Title = {Predicting Adversarial Examples with High Confidence},
+       url = {https://arxiv.org/abs/1802.04457},
+       Year = 2018,
+       archivePrefix = {arXiv},
+      eprint = {1804.03308},
+       primaryClass = {cs.LG}
 }
 
-@article{RAMACHANDRAM201880,
-title = "Bayesian optimization on graph-structured search spaces: Optimizing deep multimodal fusion architectures",
-journal = "Neurocomputing",
-volume = "298",
-pages = "80 - 89",
-year = "2018",
-issn = "0925-2312",
-doi = "https://doi.org/10.1016/j.neucom.2017.11.071",
-url = "http://www.sciencedirect.com/science/article/pii/S0925231218302121",
-author = "Dhanesh Ramachandram and Michal Lisicki and Timothy J. Shields and Mohamed R. Amer and Graham W. Taylor",
-keywords = "Deep learning, Bayesian optimization, kernel methods",
-abstract = "A popular testbed for deep learning has been multimodal recognition of human activity or gesture involving diverse inputs like video, audio, skeletal pose and depth images. Deep learning architectures have excelled on such problems due to their ability to combine modality representations at different levels of nonlinear feature extraction. However, designing an optimal architecture in which to fuse such learned representations has largely been a non-trivial human engineering effort. We treat fusion structure optimization as a hyperparameter search and cast it as a discrete optimization problem under the Bayesian optimization framework. We propose two methods to compute structural similarities in the search space of tree-structured multimodal architectures, and demonstrate their effectiveness on two challenging multimodal human activity recognition problems."
+@article{devries2018learning,
+      Author = devries # " and " # myname,
+      Title = {Learning Confidence for Out-of-Distribution Detection in Neural Networks},
+      url = {https://arxiv.org/abs/1802.04865},
+      Year = 2018,
+      archiveprefix={arXiv},
+      primaryclass={stat.ML},
+      eprint={1802.04865}
 }
 
-@article{DBLP:journals/corr/abs-1811-12601,
-  author    = {Angus Galloway and
-               Anna Golubeva and
-               Graham W. Taylor},
-  title     = {Adversarial Examples as an Input-Fault Tolerance Problem},
-  journal   = {CoRR},
-  volume    = {abs/1811.12601},
-  year      = {2018},
-  url       = {http://arxiv.org/abs/1811.12601},
-  archivePrefix = {arXiv},
-  eprint    = {1811.12601},
-  timestamp = {Mon, 03 Dec 2018 07:50:28 +0100},
-  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1811-12601},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+@article{devries2017improved,
+       Author = devries # " and " #myname,
+       Title = {Improved Regularization of Convolutional Neural Networks with {Cutout}},
+       url = {https://arxiv.org/abs/1708.04552},
+       Year = 2017,
+       archiveprefix={arXiv},
+      primaryclass={cs.CV},
+      eprint={1708.04552}
 }
