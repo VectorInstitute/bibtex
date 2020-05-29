@@ -1,0 +1,53 @@
+@article{Zheng2020,
+abstract = {The Long-Short-Term-Memory Recurrent Neural Networks (LSTM RNNs) are a popular class of machine learning models for analyzing sequential data. Their training on modern GPUs, however, is limited by the GPU memory capacity. Our profiling results of the LSTM RNN-based Neural Machine Translation (NMT) model reveal that feature maps of the attention and RNN layers form the memory bottleneck and runtime is unevenly distributed across different layers when training on GPUs. Based on these two observations, we propose to recompute the feature maps rather than stashing them persistently in the GPU memory. While the idea of feature map recomputation has been considered before, existing solutions fail to deliver satisfactory footprint reduction, as they do not address two key challenges. For each feature map recomputation to be effective and efficient, its effect on (1) the total memory footprint, and (2) the total execution time has to be carefully estimated. To this end, we propose *Echo*, a new compiler-based optimization scheme that addresses the first challenge with a practical mechanism that estimates the memory benefits of recomputation over the entire computation graph, and the second challenge by non-conservatively estimating the recomputation overhead leveraging layer specifics. *Echo* reduces the GPU memory footprint automatically and transparently without any changes required to the training source code, and is effective for models beyond LSTM RNNs. We evaluate *Echo* on numerous state-of-the-art machine learning workloads on real systems with modern GPUs and observe footprint reduction ratios of 1.89X on average and 3.13X maximum. Such reduction can be converted into faster training with a larger batch size, savings in GPU energy consumption (e.g., training with one GPU as fast as with four), and/or an increase in the maximum number of layers under the same GPU memory budget.},
+author = {Zheng, Bojian and Tiwari, Abhishek and Vijaykumar, Nandita and Pekhimenko, Gennady},
+doi = {10.1109/ISCA45697.2020.00092},
+eprint = {1805.08899},
+isbn = {9781728146614},
+journal = {Proceedings - International Symposium on Computer Architecture}
+pages = {1089--1102},
+title = {{Echo: Compiler-based GPU Memory Footprint Reduction for LSTM RNN Training}},
+url = {http://arxiv.org/abs/1805.08899},
+year = {2020}
+}
+
+@article{Reddi2019,
+abstract = {Machine-learning (ML) hardware and software system demand is burgeoning. Driven by ML applications, the number of different ML inference systems has exploded. Over 100 organizations are building ML inference chips, and the systems that incorporate existing models span at least three orders of magnitude in power consumption and five orders of magnitude in performance; they range from embedded devices to data-center solutions. Fueling the hardware are a dozen or more software frameworks and libraries. The myriad combinations of ML hardware and ML software make assessing ML-system performance in an architecture-neutral, representative, and reproducible manner challenging. There is a clear need for industry-wide standard ML benchmarking and evaluation criteria. MLPerf Inference answers that call. In this paper, we present our benchmarking method for evaluating ML inference systems. Driven by more than 30 organizations as well as more than 200 ML engineers and practitioners, MLPerf prescribes a set of rules and best practices to ensure comparability across systems with wildly differing architectures. The first call for submissions garnered more than 600 reproducible inference-performance measurements from 14 organizations, representing over 30 systems that showcase a wide range of capabilities. The submissions attest to the benchmark's flexibility and adaptability.},
+archivePrefix = {arXiv},
+arxivId = {1911.02549},
+author = {Reddi, Vijay Janapa and Cheng, Christine and Kanter, David and Mattson, Peter and Schmuelling, Guenther and Wu, Carole-Jean and Anderson, Brian and Breughe, Maximilien and Charlebois, Mark and Chou, William and Chukka, Ramesh and Coleman, Cody and Davis, Sam and Deng, Pan and Diamos, Greg and Duke, Jared and Fick, Dave and Gardner, J. Scott and Hubara, Itay and Idgunji, Sachin and Jablin, Thomas B. and Jiao, Jeff and John, Tom St. and Kanwar, Pankaj and Lee, David and Liao, Jeffery and Lokhmotov, Anton and Massa, Francisco and Meng, Peng and Micikevicius, Paulius and Osborne, Colin and Pekhimenko, Gennady and Rajan, Arun Tejusve Raghunath and Sequeira, Dilip and Sirasao, Ashish and Sun, Fei and Tang, Hanlin and Thomson, Michael and Wei, Frank and Wu, Ephrem and Xu, Lingjie and Yamada, Koichi and Yu, Bing and Yuan, George and Zhong, Aaron and Zhang, Peizhao and Zhou, Yuchen},
+eprint = {1911.02549},
+pages = {1--23},
+title = {{MLPerf Inference Benchmark}},
+url = {http://arxiv.org/abs/1911.02549},
+year = {2019}
+}
+
+@incollection{mlsys2020_177,
+ abstract = {In an era when the performance of a single compute device plateaus, software must be designed to scale on a massively parallel system for better runtime performance. However, in the context of training deep learning models, the commonly used back-propagation (BP) algorithm imposes a strong sequential dependency in the process of gradient computation. Under model parallelism, BP has a theoretical step complexity of Theta(n) which hinders its scalability in a parallel computing environment, where n represents the number of compute devices into which a model is partitioned.
+
+Scan is a primitive operation that performs an in-order aggregation on a sequence of values and returns the partial result at each step. Parallel algorithms (e.g., Blelloch scan) have been developed to scale the scan operation on massively parallel systems. In this work, in order to improve the scalability of BP, we reformulate BP into a scan operation which is then scaled by our modified version of the Blelloch scan algorithm with a theoretical step complexity of Theta(log n). We evaluate our approach on a vanilla Recurrent Neural Network training with synthetic datasets, and demonstrate up to 2.75x speedup in terms of the overall training time and 8.8x speedup on the backward pass alone.},
+ author = {Wang, Shang and Bai, Yifan and Pekhimenko, Gennady},
+ booktitle = {Proceedings of Machine Learning and Systems 2020},
+ pages = {451--469},
+ title = {BPPSA: Scaling Back-propagation by Parallel Scan Algorithm},
+ year = {2020}
+}
+
+@incollection{mlsys2020_134,
+ abstract = {Machine learning is experiencing an explosion of software and hardware solutions, and needs industry-standard performance benchmarks to drive design and enable competitive evaluation. However, machine learning training presents a number of unique challenges to benchmarking that do not exist in other domains: (1) some optimizations that improve training throughput actually increase time to solution, (2) training is stochastic and time to solution has high variance, and (3) the software and hardware systems are so diverse that they cannot be fairly benchmarked with the same binary, code, or even hyperparameters. We present MLPerf, a machine learning benchmark that overcomes these challenges. We quantitatively evaluate the efficacy of MLPerf in driving community progress on performance and scalability across two rounds of results from multiple vendors.},
+ author = {Mattson, Peter and Cheng, Christine and Diamos, Gregory and Coleman, Cody and Micikevicius, Paulius and Patterson, David and Tang, Hanlin and Wei, Gu-Yeon and Bailis, Peter and Bittorf, Victor and Brooks, David and Chen, Dehao and Dutta, Debo and Gupta, Udit and Hazelwood, Kim and Hock, Andy and Huang, Xinyuan and Kang, Daniel and Kanter, David and Kumar, Naveen and Liao, Jeffery and Narayanan, Deepak and Oguntebi, Tayo and Pekhimenko, Gennady and Pentecost, Lillian and Janapa Reddi, Vijay and Robie, Taylor and St John, Tom and Wu, Carole-Jean and Xu, Lingjie and Young, Cliff and Zaharia, Matei},
+ booktitle = {Proceedings of Machine Learning and Systems 2020},
+ pages = {336--349},
+ title = {MLPerf Training Benchmark},
+ year = {2020}
+}
+
+@misc{yang2019making,
+    title={Towards Making the Most of BERT in Neural Machine Translation},
+    author={Jiacheng Yang and Mingxuan Wang and Hao Zhou and Chengqi Zhao and Yong Yu and Weinan Zhang and Lei Li},
+    year={2019},
+    eprint={1908.05672},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
